@@ -36,6 +36,7 @@ python manage.py runserver 就可以了。不需要再硬设置端口，因为�
 ----------
 
 主题放在 `templates/` 目录下，一个目录是一个主题，`classic` 为默认主题，可参考这个制作新主题。
+PS 原始版本在ichuan的项目中，这里为表示尊敬，连基本的logo都没有改变，只是为了保证新手能一定使用的包修改了一下readme
 
 [1]: http://ichuan.net
 [2]: 这个版本取自ichuan的git，连基本的logo都没改变。只是因为自己是纯新手，而且没有指导，只能自己摸索。
